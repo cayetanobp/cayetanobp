@@ -80,15 +80,6 @@ Currently studying **Software Engineering at UMA** and always building something
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cayetanobp&show_icons=true&theme=radical" alt="Cayetano's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayetanobp&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <div align="center">
