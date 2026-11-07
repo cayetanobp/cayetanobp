@@ -20,10 +20,10 @@ Currently studying **Software Engineering at UMA** and always building something
 
 ### ☕ Backend & APIs
 <p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-%233776AB.svg?style=flat&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
 ### 🔬 Low-Level & Security
@@ -31,7 +31,7 @@ Currently studying **Software Engineering at UMA** and always building something
   <img src="https://img.shields.io/badge/Ghidra-%23FF0000.svg?style=flat" alt="Ghidra" />
   <img src="https://img.shields.io/badge/YARA-%23222222.svg?style=flat" alt="YARA" />
   <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Assembly_x86/x64-%236E4C13.svg?style=flat" alt="Assembly x86/x64" />
+  <img src="https://img.shields.io/badge/Assembly_x86%2Fx64-%236E4C13.svg?style=flat" alt="Assembly x86/x64" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
@@ -40,7 +40,7 @@ Currently studying **Software Engineering at UMA** and always building something
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-%234169E1.svg?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
