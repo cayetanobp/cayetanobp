@@ -9,7 +9,7 @@ I’m a software engineer based in Málaga. My work spans B2B SaaS backends, rev
 Currently studying **Software Engineering at UMA** and always building something on the side.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Spring+Boot+%26+Django;Frontend+%7C+Angular+%2B+Tailwind;Embedded+Systems+%7C+STM32+%2B+FreeRTOS;Always+building+something." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Python+%2B+Lua;Security+%26+Reverse+Engineering+%7C+Ghidra+%2B+C%2F%2B%2B;DevOps+%26+Testing+%7C+K3s+%2B+Grafana+%2B+k6;Always+building+something." alt="Typing SVG" />
 </div>
 
 ---
@@ -21,28 +21,19 @@ Currently studying **Software Engineering at UMA** and always building something
 ### ☕ Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Lua-%233776AB.svg?style=flat&logo=lua&logoColor=white" alt="Lua" />
-  
 </p>
 
 ### 🔬 Low-Level & Security
 <p>
   <img src="https://img.shields.io/badge/Ghidra-%23FF0000.svg?style=flat" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly_x86/x64-%236E4C13.svg?style=flat" alt="Assembly" />
   <img src="https://img.shields.io/badge/YARA-%23222222.svg?style=flat" alt="YARA" />
-</p>
-
-### 🚀 Embedded Systems
-<p>
+  <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Assembly_x86/x64-%236E4C13.svg?style=flat" alt="Assembly x86/x64" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/STM32-%2303234B.svg?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Proteus_VSM-%23003B6F.svg?style=flat" alt="Proteus VSM" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ### 🗄️ Databases
