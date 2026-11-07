@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Software Engineer based in Málaga with a background that spans multiple layers of the stack — from production REST APIs and B2B SaaS backends to reverse engineering binaries and designing embedded avionics systems. I like understanding how things work at every level.
+I'm a Software Engineer based in Málaga with a background that spans multiple layers of the stack - from production REST APIs and B2B SaaS backends to reverse engineering binaries and designing embedded avionics systems. I like understanding how things work at every level.
 
 Currently studying **Software Engineering at UMA** and always building something on the side.
 
