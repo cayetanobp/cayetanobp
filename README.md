@@ -1,6 +1,6 @@
 # Welcome! I'm Cayetano 👋
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> "The most common error of a smart engineer is to optimize a thing that should not exist." - Elon Musk
 
 ## About Me
 
