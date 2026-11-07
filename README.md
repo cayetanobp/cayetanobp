@@ -25,16 +25,8 @@ Currently studying **Software Engineering at UMA** and always building something
   <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Lua-%233776AB.svg?style=flat&logo=lua&logoColor=white" alt="Lua" />
+  
 </p>
 
 ### 🔬 Low-Level & Security
@@ -48,7 +40,6 @@ Currently studying **Software Engineering at UMA** and always building something
 
 ### 🚀 Embedded Systems
 <p>
-  <img src="https://img.shields.io/badge/FreeRTOS-%238CC84B.svg?style=flat" alt="FreeRTOS" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/STM32-%2303234B.svg?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Proteus_VSM-%23003B6F.svg?style=flat" alt="Proteus VSM" />
@@ -58,11 +49,13 @@ Currently studying **Software Engineering at UMA** and always building something
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-%234169E1.svg?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### ⚙️ DevOps & Tooling
 <p>
+  <img src="https://img.shields.io/badge/k3s-%23FFC61C.svg?style=flat&logo=kubernetes&logoColor=white" alt="K3S" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -71,6 +64,8 @@ Currently studying **Software Engineering at UMA** and always building something
 
 ### 🧪 Testing & Quality
 <p>
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/k6-%237D64FF.svg?style=flat&logo=k6&logoColor=white" alt="k6" />
   <img src="https://img.shields.io/badge/JUnit_5-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Mockito-%2378C743.svg?style=flat" alt="Mockito" />
   <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" />
