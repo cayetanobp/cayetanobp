@@ -1,10 +1,10 @@
 # Welcome! I'm Cayetano 👋
 
-> "The most common error of a smart engineer is to optimize a thing that should not exist." - Elon Musk
+> "Security is not a product, it's a process." - Linus Torvalds
 
 ## About Me
 
-I'm a Software Engineer based in Málaga with a background that spans multiple layers of the stack - from production REST APIs and B2B SaaS backends to reverse engineering binaries and designing embedded avionics systems. I like understanding how things work at every level.
+I’m a software engineer based in Málaga. My work spans B2B SaaS backends, reverse engineering, and vulnerability research. I’m driven by curiosity about how systems work and what happens beneath the surface.
 
 Currently studying **Software Engineering at UMA** and always building something on the side.
 
