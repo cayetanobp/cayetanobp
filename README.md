@@ -23,15 +23,15 @@ Currently studying **Software Engineering at UMA** and always building something
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BRmFzdEFQSTwvdGl0bGU%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzUuMzc2IDAgMCA1LjM3NiAwIDEydjEyaDEyYzYuNjI0IDAgMTItNS4zNzYgMTItMTJWMEgxMnptMCAzLjY5Mmg4LjMwOGE4LjMxIDguMzEgMCAwIDEgMCAxNi42MTZIMTJWMy42OTJ6bS0zLjY5MyA3LjM4NWExLjg0NiAxLjg0NiAwIDEgMCAwIDMuNjkyIDEuODQ2IDEuODQ2IDAgMCAwIDAtMy42OTJ6Ii8%2BPC9zdmc%2B" alt="REST APIs" />
 </p>
 
 ### 🔬 Low-Level & Security
 <p>
-  <img src="https://img.shields.io/badge/Ghidra-%23FF0000.svg?style=flat" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/YARA-%23222222.svg?style=flat" alt="YARA" />
+  <img src="https://img.shields.io/badge/Ghidra-%23FF0000.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJMNiA2djEybDYuNSA0TDkgMTVMMiAxMmw3LTZMMTIgMnpNMTIgMmw2IDR2MTJsLTYuNSA0TDYgMTVsdjZMMTIgMnoiLz48L3N2Zz4%3D" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/YARA-%23222222.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDFMNyA0djZjMCA1LjU1IDMuODQgMTAuNzQgNSA0IDUuMTYtNi43NiA1LTExLjc2VjRMMTIgMXptMCA0YTMuNSAzLjUgMCAxIDEgMCA3IDMuNSAzLjUgMCAwIDEgMC03eiIvPjwvc3ZnPg%3D%3D" alt="YARA" />
   <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Assembly_x86%2Fx64-%236E4C13.svg?style=flat" alt="Assembly x86/x64" />
+  <img src="https://img.shields.io/badge/Assembly_x86%2Fx64-%236E4C13.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTkgVkg0aDJWOWgydjRoLTJ2Mmg0VjloMnY0aDJ2MmgtMnY0aC0ydjRoLTJoLTZ2LTRINlY5aDN6TTUgNWg0djJINVY1em0wIDRoNHYySDVWOXptMCA0aDR2Mkg1dn0iLz48L3N2Zz4%3D" alt="Assembly x86/x64" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
@@ -58,7 +58,7 @@ Currently studying **Software Engineering at UMA** and always building something
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/k6-%237D64FF.svg?style=flat&logo=k6&logoColor=white" alt="k6" />
   <img src="https://img.shields.io/badge/JUnit_5-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-%2378C743.svg?style=flat" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Mockito-%2378C743.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIgMmMwIDExIDcgMjAgMTIgMjBTMjIgMTMgMjIgMkMyIDEzIDcgMiAyIDJ6Ii8%2BPC9zdmc%2B" alt="Mockito" />
   <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" />
 </p>
 
